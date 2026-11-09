@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+ <rect width="240" height="240" rx="48" fill="#174a83"/>
+ <path d="M48 91h144l-12 105H60L48 91Z" fill="#fff"/>
+ <path d="M72 91c0-29 20-50 48-50s48 21 48 50" fill="none" stroke="#f5b942" stroke-width="12" stroke-linecap="round"/>
+ <path d="M78 116h84M78 141h84M78 166h54" stroke="#174a83" stroke-width="9" stroke-linecap="round"/>
+ <path d="M36 83h168" stroke="#f5b942" stroke-width="12" stroke-linecap="round"/>
+ <text x="120" y="222" font-family="Arial,sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#fff">WE GO</text>
+</svg>
